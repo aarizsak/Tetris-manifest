@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: aarizsak/tetrisv2:latest
+        image: aarizsak/reddit-clone-pipeline:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
